@@ -2,6 +2,7 @@ Algoritmo menos1
 	definir suma, cont, mayor, menor, num como real
 	Escribir "ingrese varios numeros"
 	Leer num
+	escribir "gracias por ingresar el numero"
 	suma<-0
 	cont<-1
 	menor = num
